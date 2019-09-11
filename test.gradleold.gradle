@@ -1,0 +1,51 @@
+buildscript {
+    repositories {
+        jcenter()
+        mavenCentral()
+ 
+        maven {
+            url "http://artifactory.productmadness.com/artifactory/plugins-release"
+            credentials {
+                username System.env.ARTIFACTORY_USER
+                password System.env.ARTIFACTORY_PASSWORD
+            }
+        }
+    }
+ 
+    dependencies {
+        classpath group: 'com.productmadness', name: 'ci-plugin-app', version: '+'
+        classpath group: 'com.productmadness', name: 'ci-plugin-dependencies', version: '+'
+        classpath group: 'com.productmadness', name: 'ci-plugin-versioning', version: '+'
+    }
+}
+ 
+apply plugin: 'com.productmadness.ci-plugin-app'
+apply plugin: 'com.productmadness.ci-plugin-dependencies'
+apply plugin: 'com.productmadness.ci-plugin-versioning'
+ 
+repositories {
+    maven {
+        url 'http://artifactory.productmadness.com/artifactory/unity-repo-pm'
+        credentials {
+            username System.env.ARTIFACTORY_USER
+            password System.env.ARTIFACTORY_PASSWORD
+        }
+    }
+     
+    maven {
+            url 'http://artifactory.productmadness.com/artifactory/libs-release-local'
+            credentials {
+                username System.env.ARTIFACTORY_USER
+                password System.env.ARTIFACTORY_PASSWORD
+            }
+        }
+}
+ 
+dependencies {   
+    // Test Lobby Dependency
+   unity group: 'com.productmadness.tnt', name: 'bonusservice', version: '1.0.0'
+}
+ 
+dependenciesPluginConfiguration {
+    unityProjectPath = ''
+}

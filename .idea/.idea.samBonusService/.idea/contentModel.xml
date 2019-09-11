@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets/Dependencies" t="Include">
+        <e p="bonusservice" t="Include">
+          <e p="bonusservice" t="Include">
+            <e p="NewPlayModeTest.cs" t="Include" />
+          </e>
+        </e>
+        <e p="uninstall_manifest.txt" t="Include" />
+      </e>
+      <e p="Assets/Scripts" t="Include">
+        <e p="Editor" t="Include">
+          <e p="NewEditModeTest.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="samBonusService.sln" t="IncludeFlat" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_samBonusService.-142472082.00" t="ExcludeRecursive" />
+  </component>
+</project>

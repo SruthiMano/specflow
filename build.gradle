@@ -1,0 +1,60 @@
+buildscript {
+    repositories {
+        jcenter()
+        mavenCentral()
+ 
+        maven {
+            url "http://artifactory.productmadness.com/artifactory/plugins-release"
+            credentials {
+                 username "${artifactory_user}"
+                 password "${artifactory_password}"
+            }
+         }
+    }
+ 
+    dependencies {
+        classpath group: 'com.productmadness', name: 'ci-plugin-app', version: '+'
+        classpath group: 'com.productmadness', name: 'ci-plugin-dependencies', version: '+'
+        classpath group: 'com.productmadness', name: 'ci-plugin-versioning', version: '+'
+    }
+}
+ 
+apply plugin: 'com.productmadness.ci-plugin-app'
+apply plugin: 'com.productmadness.ci-plugin-dependencies'
+apply plugin: 'com.productmadness.ci-plugin-versioning'
+ 
+repositories {
+    maven {
+        url 'http://artifactory.productmadness.com/artifactory/unity-repo-pm'
+        credentials {
+             username "${artifactory_user}"
+             password "${artifactory_password}"
+        }
+    }
+     
+    maven {
+            url 'http://artifactory.productmadness.com/artifactory/libs-release-local'
+            credentials {
+                username "${artifactory_user}"
+                password "${artifactory_password}"
+            }
+        }
+        maven {
+        url 'http://artifactory.productmadness.com/artifactory/ext-release-local'
+        credentials {
+            username = "${artifactory_user}"
+            password = "${artifactory_password}"
+        }
+    }
+}
+ 
+dependencies {   
+    // Test Lobby Dependency
+ //  unity group: 'com.productmadness', name: 'tnt-test-lobby', version: '1.0.0'
+   unity group: 'com.productmadness.tnt', name: 'bonusservice', version: '1.0.0'
+   unity_transient(group: 'com.delfish', name: 'NSubstitute', version: '1.9.2.0', ext: 'dll')
+}
+ 
+dependenciesPluginConfiguration {
+    unityProjectPath = ''
+}

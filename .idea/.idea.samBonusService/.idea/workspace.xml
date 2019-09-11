@@ -1,0 +1,1030 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5655cfd8-ddc5-4587-b711-5fc1cccfd144" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Editor/NewEditModeTest.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="386">
+              <caret line="173" column="58" selection-start-line="173" selection-start-column="58" selection-end-line="173" selection-end-column="58" />
+              <folding>
+                <marker date="1566763426151" expanded="true" signature="7:583" ph="..." />
+                <marker date="1566763426151" expanded="true" signature="615:4782" ph="{...}" />
+                <marker date="1566763426151" expanded="true" signature="893:1697" ph="{...}" />
+                <marker date="1566763426151" expanded="true" signature="899:1180" ph="/* Mocking the interfaces ... */" />
+                <marker date="1566763426151" expanded="true" signature="1323:1462" ph="/* Object creation for BonusServiceFactory and PlayFactor ... */" />
+                <marker date="1566763426151" expanded="true" signature="1579:1693" ph="/* _player= PlayerFactory.Create(); ... */" />
+                <marker date="1566763426151" expanded="true" signature="1699:1957" ph="/* [Test] ... */" />
+                <marker date="1566763426151" expanded="true" signature="2013:2147" ph="{...}" />
+                <marker date="1566763426151" expanded="true" signature="2191:2606" ph="{...}" />
+                <marker date="1566763426151" expanded="true" signature="2220:2356" ph="/* _player = PlayerFactory.Create(&quot;ebfe61bf5740b4a08baf561df9fdda27f&quot;, &quot;12345&quot;, &quot;12345678&quot;, 7869000000000, true, ... */" />
+                <marker date="1566763426151" expanded="true" signature="2651:2994" ph="{...}" />
+                <marker date="1566763426151" expanded="true" signature="3053:3320" ph="{...}" />
+                <marker date="1566763426151" expanded="true" signature="3057:3084" ph="/* IsPurchasing = true; ... */" />
+                <marker date="1566763426151" expanded="true" signature="3139:3298" ph="/* var transaction = new PaymentTransaction(product, GetRandomMultiplier()); ... */" />
+                <marker date="1566763426151" expanded="true" signature="3361:3637" ph="{...}" />
+                <marker date="1566763426151" expanded="true" signature="3477:3634" ph="/* Assert.IsTrue(_bonus.HasBonusOfType&lt;IVipBonus&gt;()); ... */" />
+                <marker date="1566763426151" expanded="true" signature="3691:4135" ph="{...}" />
+                <marker date="1566763426151" expanded="true" signature="4182:4383" ph="{...}" />
+                <marker date="1566763426151" expanded="true" signature="4441:4543" ph="{...}" />
+                <marker date="1566763426151" expanded="true" signature="4571:4780" ph="{...}" />
+                <marker date="1566763426151" expanded="true" signature="4577:4721" ph="/* add { _bonusStore.BonusDataUpdated += value; } ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../core-tech-dotnet-master/Core-Tech/Domains/Bonuses2/BonusManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="461">
+              <caret line="68" column="12" selection-start-line="68" selection-start-column="12" selection-end-line="68" selection-end-column="58" />
+              <folding>
+                <element signature="e#0#147#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6A47DD8D-C14E-43D0-8B67-F1F047377863/af/e3f08397/IBonusService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+              <folding>
+                <element signature="e#374#547#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Dependencies/bonusservice/BonusService/NewPlayModeTest.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="273" column="14" selection-start-line="273" selection-start-column="14" selection-end-line="273" selection-end-column="14" />
+              <folding>
+                <marker date="1566763091831" expanded="true" signature="6:664" ph="..." />
+                <marker date="1566763091831" expanded="true" signature="694:8779" ph="{...}" />
+                <marker date="1566763091831" expanded="true" signature="767:821" ph="{...}" />
+                <marker date="1566763091831" expanded="true" signature="912:1042" ph="{...}" />
+                <marker date="1566763091831" expanded="true" signature="1133:1263" ph="{...}" />
+                <marker date="1566763091831" expanded="true" signature="1358:1492" ph="{...}" />
+                <marker date="1566763091831" expanded="true" signature="1608:2203" ph="{...}" />
+                <marker date="1566763091831" expanded="true" signature="1779:1931" ph="{...}" />
+                <marker date="1566763091831" expanded="true" signature="1820:1892" ph="{...}" />
+                <marker date="1566763091831" expanded="true" signature="2039:2069" ph="{...}" />
+                <marker date="1566763091831" expanded="true" signature="2319:3049" ph="{...}" />
+                <marker date="1566763091831" expanded="true" signature="2622:2774" ph="{...}" />
+                <marker date="1566763091831" expanded="true" signature="2663:2735" ph="{...}" />
+                <marker date="1566763091831" expanded="true" signature="2882:2912" ph="{...}" />
+                <marker date="1566763091831" expanded="true" signature="3163:3881" ph="{...}" />
+                <marker date="1566763091831" expanded="true" signature="3384:3536" ph="{...}" />
+                <marker date="1566763091831" expanded="true" signature="3425:3497" ph="{...}" />
+                <marker date="1566763091831" expanded="true" signature="3644:3674" ph="{...}" />
+                <marker date="1566763091831" expanded="true" signature="3975:4264" ph="{...}" />
+                <marker date="1566763091831" expanded="true" signature="4378:5177" ph="{...}" />
+                <marker date="1566763091831" expanded="true" signature="4726:4878" ph="{...}" />
+                <marker date="1566763091831" expanded="true" signature="4767:4839" ph="{...}" />
+                <marker date="1566763091831" expanded="true" signature="4986:5016" ph="{...}" />
+                <marker date="1566763091831" expanded="true" signature="5274:5563" ph="{...}" />
+                <marker date="1566763091831" expanded="true" signature="5675:6455" ph="{...}" />
+                <marker date="1566763091831" expanded="true" signature="6029:6181" ph="{...}" />
+                <marker date="1566763091831" expanded="true" signature="6070:6142" ph="{...}" />
+                <marker date="1566763091831" expanded="true" signature="6289:6319" ph="{...}" />
+                <marker date="1566763091831" expanded="true" signature="6565:7060" ph="{...}" />
+                <marker date="1566763091831" expanded="true" signature="6977:7007" ph="{...}" />
+                <marker date="1566763091831" expanded="true" signature="7170:7672" ph="{...}" />
+                <marker date="1566763091831" expanded="true" signature="7589:7619" ph="{...}" />
+                <marker date="1566763091831" expanded="true" signature="7730:7825" ph="{...}" />
+                <marker date="1566763091831" expanded="true" signature="7853:8043" ph="{...}" />
+                <marker date="1566763091831" expanded="true" signature="8048:8240" ph="/* public event Action BonusDataUpdated { ... */" />
+                <marker date="1566763091831" expanded="true" signature="8248:8574" ph="/* List&lt;string&gt; receivedEvents = new List&lt;string&gt;(); ... */" />
+                <marker date="1566763091831" expanded="true" signature="8577:8735" ph="/* Assert.AreEqual(2, receivedEvents.Count); ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ConsumeTestLobby_practice/Assets/Dependencies/CoreTechUnity/CoreTech/Infrastructure/ApplicationContext.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2208">
+              <folding>
+                <element signature="e#0#185#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ConsumeTestLobby copy/Assets/Dependencies/CoreTechUnity/CoreTech/Integration/Facebook/Impl/FacebookService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="183" column="13" selection-start-line="183" selection-start-column="13" selection-end-line="183" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#580#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/RiderProjects/core-tech-unity/Core-Tech-Unity/Assets/Sample/Integration/Bonuses/BonusesSample.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="447">
+              <caret line="60" column="26" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#226#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ConsumeTestLobby/Assets/Dependencies/CoreTechUnity/CoreTech/Infrastructure/ApplicationContext.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="664">
+              <caret line="172" column="41" selection-start-line="172" selection-start-column="28" selection-end-line="172" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#185#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/RiderProjects/core-tech-unity/Core-Tech-Unity/Assets/Sample/Infrastructure/IntercomIO/DemoManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#398#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../core-tech-dotnet-master/Core-Tech/Domains/Bonuses2/Impl/BonusStore.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1170">
+              <caret line="78" column="34" selection-start-line="78" selection-start-column="27" selection-end-line="78" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#139#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>vip</find>
+      <find>CollectBonus</find>
+      <find>subscr</find>
+      <find>value</find>
+      <find>IBonusesCollectedData</find>
+      <find>collect</find>
+      <find>collectbo</find>
+      <find>iscolle</find>
+      <find>GivenNonVIPPlayer_WhenUnsupportedBonusTypeIsCollected_ThenReturnNullBonusData</find>
+      <find>Assert.IsNull(bonusException);</find>
+      <find>GivenNonVIPPlayer_WhenIBonusIsCollected_ThenReturnFulfilledPromiseWithBonusData</find>
+      <find>GivenVIPPlayer_WhenIVipBonusIsCollected_ThenReturnFulfilledPromiseWithBonusData</find>
+      <find>BonusStore</find>
+      <find>inov</find>
+      <find>handler</find>
+      <find>eve</find>
+      <find>action</find>
+      <find>BonusDataUpdated</find>
+      <find>upda</find>
+      <find>subscribe</find>
+      <find>sub</find>
+      <find>bonusda</find>
+      <find>OnUpdate</find>
+      <find>Logout</find>
+      <find>Client</find>
+      <find>log</find>
+      <find>logout(</find>
+      <find>+=</find>
+      <find>UserDataWiped</find>
+      <find>OnCreate</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../test/ConsumeTestLobby/Assets/Dependencies/CoreTechUnity/CoreTech/Integration/Bonuses/v2/Impl/BonusService.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../ConsumeTestLobby_ios copy/Assets/Dependencies/atlas-client-unity-plugin/CoreTech/Infrastructure/AtlasClient/Atlas.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6A47DD8D-C14E-43D0-8B67-F1F047377863/88/0580ef0a/PlayerFactory.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6A47DD8D-C14E-43D0-8B67-F1F047377863/af/e3f08397/IBonusService.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/Tests/BonusServiceTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6A47DD8D-C14E-43D0-8B67-F1F047377863/30/8912c585/BonusStoreReader.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../SampleUnityProject/GitLocal/unity-plugin/Unity/Assets/CoreTech/Infrastructure/AtlasClient/Request/Impl/AtlasRequestFactory.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/RiderProjects/core-tech-unity/Core-Tech-Unity/Assets/CoreTech/Integration/Atlas/Impl/AtlasService.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../ConsumeTestLobby/Assets/Dependencies/CoreTechUnity/CoreTech/Infrastructure/ApplicationContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../ConsumeTestLobby copy 2/Assets/Dependencies/CoreTechUnity/CoreTech/Integration/Tracking/AppsFlyer/Impl/AppsFlyerService.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../core-tech-dotnet-master/Core-Tech/Tests/Bonuses2Test/Impl/BonusStoreTest.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6A47DD8D-C14E-43D0-8B67-F1F047377863/d4/d051bd60/IPlayer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6A47DD8D-C14E-43D0-8B67-F1F047377863/8c/a197c362/IBonusesCollectedData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../TestLobbyiOS/Assets/Dependencies/atlas-client-unity-plugin/CoreTech/Infrastructure/AtlasClient/Atlas.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6E70D638-4BAB-4CCF-8A0E-0DE574CBB65A/31/bd326eac/Application.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Dependencies/bonusservice/BonusService/NewPlayModeTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6A47DD8D-C14E-43D0-8B67-F1F047377863/28/dc16eaf3/BonusesStatus.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../test/ConsumeTestLobby/Assets/Dependencies/unity-framework/ProductMadness/Framework/Models/Crms/Impl/CrmBannerModel.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/RiderProjects/core-tech-unity/Core-Tech-Unity/Assets/Sample/Integration/Bonuses/BonusesSample.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/Dependencies/atlas-client-unity-plugin/CoreTech/Infrastructure/AtlasClient/Request/Impl/CollectBonusesHttpRequest.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../ConsumeTestLobby_ios/Assets/Dependencies/CoreTechUnity/CoreTech/Context/Impl/BonusFactory.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../ConsumeTestLobby_ios copy/Assets/Dependencies/CoreTechUnity/CoreTech/Context/Impl/AgeValidationFactory.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6A47DD8D-C14E-43D0-8B67-F1F047377863/aa/afe6d55d/BonusService.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../test/ConsumeTestLobby/Assets/Dependencies/unity-framework/ProductMadness/Framework/Models/Bonus/Impl/BonusModel.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../TNTQALobby_Backup/Assets/Dependencies/CoreTechUnity/CoreTech/Integration/Tracking/Advertising/Impl/AdvertisingTrackingService.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../ConsumeTestLobby_practice/Assets/Dependencies/CoreTechUnity/CoreTech/Infrastructure/Facebook/IFacebookClient.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../core-tech-dotnet-master/Core-Tech/Domains/Bonuses2/BonusManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Documents/GIT/tnt-build-integration-testing/tnt-test-lobby/Assets/Dependencies/CoreTechUnity/CoreTech/Integration/AgeVerification/Impl/AgeVerifier.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6A47DD8D-C14E-43D0-8B67-F1F047377863/36/88b0529a/BasePromise.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../core-tech-dotnet-master/Core-Tech/Domains/Bonuses2/Impl/BonusStore.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../TestLobbyiOS/Assets/Dependencies/unity-framework/ProductMadness/Framework/Models/Bonus/Impl/BonusModel.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6A47DD8D-C14E-43D0-8B67-F1F047377863/6f/217a10fb/IScheduledBonus.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Editor/NewEditModeTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../core-tech-dotnet-master/Core-Tech/Domains/Bonuses2/IBonusStoreWriter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../SampleUnityProject/UnityTestRunner/Assets/Tests/PlayModeTest1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6A47DD8D-C14E-43D0-8B67-F1F047377863/50/781fd366/Player.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6A47DD8D-C14E-43D0-8B67-F1F047377863/78/abbfe638/IBonusesStatus.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/RiderProjects/core-tech-unity/Core-Tech-Unity/Assets/Sample/Infrastructure/IntercomIO/DemoManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/AnalyticsEventTests.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../TNTQALobby_Backup/Assets/Dependencies/atlas-client-unity-plugin/CoreTech/Infrastructure/AtlasClient/Request/Impl/CollectBonusesHttpRequest.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Documents/ConsumeTestLobby_pra_backup/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_InputField.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Documents/ConsumeTestLobby_pra_backup/Assets/Dependencies/CoreTechUnity/CoreTech/Integration/Atlas/Impl/AtlasService.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../ConsumeTestLobby_practice/Assets/Dependencies/CoreTechUnity/CoreTech/Infrastructure/ApplicationContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../TNTQALobby_Backup/Assets/Dependencies/unity-framework/ProductMadness/Framework/Models/Bonus/Impl/BonusModel.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6A47DD8D-C14E-43D0-8B67-F1F047377863/18/d6e731b5/IBonusStoreReader.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../ConsumeTestLobby_practice/Assets/Dependencies/CoreTechUnity/CoreTech/Integration/BaseService.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6A47DD8D-C14E-43D0-8B67-F1F047377863/3d/30e55b16/BonusServiceFactory.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../ConsumeTestLobby copy/Assets/Dependencies/CoreTechUnity/CoreTech/Integration/Facebook/Impl/FacebookService.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../test/ConsumeTestLobby/Assets/Dependencies/CoreTechUnity/CoreTech/Integration/Bonuses/v2/IBonusService.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../ConsumeTestLobby_practice/Assets/Dependencies/state-machine-unity/ProductMadness/Framework/StateMachine/StateMachineDriver.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/RiderProjects/core-tech-unity/Core-Tech-Unity/Assets/Sample/Infrastructure/Networking/Atlas/AtlasDemo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../ConsumeTestLobby copy/Assets/Dependencies/CoreTechUnity/CoreTech/Context/Impl/BonusFactory.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../TestLobbyiOS/Assets/Dependencies/CoreTechUnity/CoreTech/Integration/Tracking/AppsFlyer/Impl/AppsFlyerService.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Documents/ConsumeTestLobby_pra_backup/Assets/Dependencies/CoreTechUnity/CoreTech/Integration/Bonuses/v2/Impl/BonusService.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/IBonusService.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BonusServiceFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NewBehaviourScript.cs" />
+        <option value="$USER_HOME$/Downloads/Tests/BonusServiceTests.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dependencies/bonusservice/BonusService/PlayModeBonusServiceTests.cs" />
+        <option value="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6A47DD8D-C14E-43D0-8B67-F1F047377863/af/e3f08397/IBonusService.cs" />
+        <option value="$PROJECT_DIR$/../core-tech-dotnet-master/Core-Tech/Tests/Bonuses2Test/Impl/BonusStoreTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Dependencies/bonusservice/BonusService/NewPlayModeTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Editor/NewEditModeTest.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="978" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Dependencies" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Dependencies" type="1045f7f1:UnityExplorerNode" />
+              <item name="bonusservice" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Dependencies" type="1045f7f1:UnityExplorerNode" />
+              <item name="bonusservice" type="1045f7f1:UnityExplorerNode" />
+              <item name="BonusService" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="Editor" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Packages" type="4e2708dd:PackagesRoot" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Packages" type="4e2708dd:PackagesRoot" />
+              <item name="Read only" type="7f48d1bd:ReadOnlyPackagesRoot" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Packages" type="4e2708dd:PackagesRoot" />
+              <item name="Read only" type="7f48d1bd:ReadOnlyPackagesRoot" />
+              <item name="com.unity.analytics@3.2.2" type="a82a7030:PackageNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Packages" type="4e2708dd:PackagesRoot" />
+              <item name="Read only" type="7f48d1bd:ReadOnlyPackagesRoot" />
+              <item name="com.unity.analytics@3.2.2" type="a82a7030:PackageNode" />
+              <item name="Tests" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Packages" type="4e2708dd:PackagesRoot" />
+              <item name="Read only" type="7f48d1bd:ReadOnlyPackagesRoot" />
+              <item name="com.unity.analytics@3.2.2" type="a82a7030:PackageNode" />
+              <item name="Tests" type="1045f7f1:UnityExplorerNode" />
+              <item name="Editor" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Packages" type="4e2708dd:PackagesRoot" />
+              <item name="Read only" type="7f48d1bd:ReadOnlyPackagesRoot" />
+              <item name="com.unity.analytics@3.2.2" type="a82a7030:PackageNode" />
+              <item name="Tests" type="1045f7f1:UnityExplorerNode" />
+              <item name="Editor" type="1045f7f1:UnityExplorerNode" />
+              <item name="Unity.Analytics.StandardEvents" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5655cfd8-ddc5-4587-b711-5fc1cccfd144" name="Default Changelist" comment="" />
+      <created>1566414994869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566414994869</updated>
+      <workItem from="1566414996192" duration="6000" />
+      <workItem from="1566415049680" duration="4347000" />
+      <workItem from="1566475952605" duration="63845000" />
+      <workItem from="1566719865025" duration="19343000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="87541000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="978" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22161172" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4993895" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32914287" />
+      <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.4993895" weight="0.32959184" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info active="true" anchor="bottom" id="Unit Tests" order="11" sideWeight="0.8247863" visible="true" weight="0.32505643" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.17521368" side_tool="true" visible="true" weight="0.32505643" />
+      <window_info anchor="bottom" id="Unity" order="14" sideWeight="0.4993895" weight="0.32857144" />
+      <window_info anchor="bottom" id="Build" order="15" sideWeight="0.4957265" weight="0.32857144" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/RiderProjects/core-tech-unity/Core-Tech-Unity/Assets/CoreTech/Integration/Atlas/Impl/AtlasService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="627" column="31" selection-start-line="627" selection-start-column="24" selection-end-line="627" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#1088#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ConsumeTestLobby_practice/Assets/Dependencies/CoreTechUnity/CoreTech/Infrastructure/Facebook/IFacebookClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TestLobbyiOS/Assets/Dependencies/atlas-client-unity-plugin/CoreTech/Infrastructure/AtlasClient/Atlas.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8805">
+          <caret line="587" column="45" selection-start-line="587" selection-start-column="38" selection-end-line="587" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#695#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test/ConsumeTestLobby/Assets/Dependencies/CoreTechUnity/CoreTech/Integration/Bonuses/v2/Impl/BonusService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="42" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="79" />
+          <folding>
+            <element signature="e#0#411#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test/ConsumeTestLobby/Assets/Dependencies/unity-framework/ProductMadness/Framework/Models/Bonus/Impl/BonusModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="25" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#178#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Logs/Rider2019.1/UnitTestLogs/Sessions/2019-08-22-16-46-51-661___26adab50-fe7d-4d63-bddf-a407b9e1eae1.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NewBehaviourScript.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6A47DD8D-C14E-43D0-8B67-F1F047377863/3d/30e55b16/BonusServiceFactory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding>
+            <element signature="e#377#518#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6A47DD8D-C14E-43D0-8B67-F1F047377863/88/0580ef0a/PlayerFactory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="42" column="16" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/RiderProjects/core-tech-unity/Core-Tech-Unity/Assets/Sample/Infrastructure/Networking/Atlas/AtlasDemo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="87" column="32" selection-start-line="87" selection-start-column="20" selection-end-line="87" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#409#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Dependencies/atlas-client-unity-plugin/CoreTech/Infrastructure/AtlasClient/Request/Impl/CollectBonusesHttpRequest.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6A47DD8D-C14E-43D0-8B67-F1F047377863/50/781fd366/Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6A47DD8D-C14E-43D0-8B67-F1F047377863/d4/d051bd60/IPlayer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TNTQALobby_Backup/Assets/Dependencies/atlas-client-unity-plugin/CoreTech/Infrastructure/AtlasClient/Request/Impl/CollectBonusesHttpRequest.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SampleUnityProject/GitLocal/unity-plugin/Unity/Assets/CoreTech/Infrastructure/AtlasClient/Request/Impl/AtlasRequestFactory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="97" column="59" selection-start-line="97" selection-start-column="47" selection-end-line="97" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#172#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6A47DD8D-C14E-43D0-8B67-F1F047377863/aa/afe6d55d/BonusService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1845">
+          <caret line="130" column="99" selection-start-line="130" selection-start-column="99" selection-end-line="130" selection-end-column="99" />
+          <folding>
+            <marker date="1566506446444" expanded="true" signature="0:368" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1566506446444" expanded="false" signature="376:711" ph="..." />
+            <marker date="1566506446444" expanded="true" signature="766:7035" ph="{...}" />
+            <marker date="1566506446444" expanded="true" signature="827:7033" ph="{...}" />
+            <marker date="1566506446444" expanded="true" signature="1025:1102" ph="{...}" />
+            <marker date="1566506446444" expanded="true" signature="1041:1096" ph="{...}" />
+            <marker date="1566506446444" expanded="true" signature="1148:1314" ph="{...}" />
+            <marker date="1566506446444" expanded="true" signature="1400:2087" ph="{...}" />
+            <marker date="1566506446444" expanded="true" signature="1665:1776" ph="{...}" />
+            <marker date="1566506446444" expanded="true" signature="1787:2025" ph="{...}" />
+            <marker date="1566506446444" expanded="true" signature="2212:3099" ph="{...}" />
+            <marker date="1566506446444" expanded="true" signature="2677:2788" ph="{...}" />
+            <marker date="1566506446444" expanded="true" signature="2799:3037" ph="{...}" />
+            <marker date="1566506446444" expanded="true" signature="3257:4274" ph="{...}" />
+            <marker date="1566506446444" expanded="true" signature="3852:3963" ph="{...}" />
+            <marker date="1566506446444" expanded="true" signature="3974:4212" ph="{...}" />
+            <marker date="1566506446444" expanded="true" signature="4364:5182" ph="{...}" />
+            <marker date="1566506446444" expanded="true" signature="4518:4656" ph="{...}" />
+            <marker date="1566506446444" expanded="true" signature="4702:4968" ph="{...}" />
+            <marker date="1566506446444" expanded="true" signature="5283:6196" ph="{...}" />
+            <marker date="1566506446444" expanded="true" signature="5455:5600" ph="{...}" />
+            <marker date="1566506446444" expanded="true" signature="5650:5916" ph="{...}" />
+            <marker date="1566506446444" expanded="true" signature="6259:6498" ph="{...}" />
+            <marker date="1566506446444" expanded="true" signature="6539:6828" ph="{...}" />
+            <marker date="1566506446444" expanded="true" signature="6855:7029" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/ConsumeTestLobby_pra_backup/Assets/Dependencies/CoreTechUnity/CoreTech/Integration/Atlas/Impl/AtlasService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4914">
+          <caret line="333" column="9" selection-start-line="333" selection-start-column="9" selection-end-line="333" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#1088#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test/ConsumeTestLobby/Assets/Dependencies/unity-framework/ProductMadness/Framework/Models/Crms/Impl/CrmBannerModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="45" column="40" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Dependencies/bonusservice/BonusService/PlayModeBonusServiceTests.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6E70D638-4BAB-4CCF-8A0E-0DE574CBB65A/31/bd326eac/Application.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="139" column="130" selection-start-line="139" selection-start-column="130" selection-end-line="139" selection-end-column="130" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6A47DD8D-C14E-43D0-8B67-F1F047377863/8c/a197c362/IBonusesCollectedData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding>
+            <marker date="1566512023796" expanded="true" signature="0:371" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1566512023796" expanded="true" signature="455:593" ph="{...}" />
+            <marker date="1566512023796" expanded="true" signature="515:591" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Tests/BonusServiceTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1410">
+          <caret line="94" selection-start-line="14" selection-start-column="4" selection-end-line="94" />
+          <folding>
+            <element signature="e#0#389#0" expanded="true" />
+            <marker date="1566600877000" expanded="true" signature="422:2529" ph="{...}" />
+            <marker date="1566600877000" expanded="true" signature="497:549" ph="{...}" />
+            <marker date="1566600877000" expanded="true" signature="640:771" ph="{...}" />
+            <marker date="1566600877000" expanded="true" signature="863:994" ph="{...}" />
+            <marker date="1566600877000" expanded="true" signature="1108:1691" ph="{...}" />
+            <marker date="1566600877000" expanded="true" signature="1278:1424" ph="{...}" />
+            <marker date="1566600877000" expanded="true" signature="1318:1387" ph="{...}" />
+            <marker date="1566600877000" expanded="true" signature="1532:1562" ph="{...}" />
+            <marker date="1566600877000" expanded="true" signature="1808:2527" ph="{...}" />
+            <marker date="1566600877000" expanded="true" signature="2109:2255" ph="{...}" />
+            <marker date="1566600877000" expanded="true" signature="2149:2218" ph="{...}" />
+            <marker date="1566600877000" expanded="true" signature="2363:2393" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6A47DD8D-C14E-43D0-8B67-F1F047377863/78/abbfe638/IBonusesStatus.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6A47DD8D-C14E-43D0-8B67-F1F047377863/28/dc16eaf3/BonusesStatus.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6A47DD8D-C14E-43D0-8B67-F1F047377863/6f/217a10fb/IScheduledBonus.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6A47DD8D-C14E-43D0-8B67-F1F047377863/36/88b0529a/BasePromise.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="50" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test/ConsumeTestLobby/Assets/Dependencies/CoreTechUnity/CoreTech/Integration/Bonuses/v2/IBonusService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6A47DD8D-C14E-43D0-8B67-F1F047377863/30/8912c585/BonusStoreReader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="107" column="66" selection-start-line="107" selection-start-column="66" selection-end-line="107" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TestLobbyiOS/Assets/Dependencies/unity-framework/ProductMadness/Framework/Models/Bonus/Impl/BonusModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#178#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/ConsumeTestLobby_pra_backup/Assets/Dependencies/CoreTechUnity/CoreTech/Integration/Bonuses/v2/Impl/BonusService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#411#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/ConsumeTestLobby_pra_backup/Library/PackageCache/com.unity.textmeshpro@1.4.1/Scripts/Runtime/TMP_InputField.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ConsumeTestLobby_practice/Assets/Dependencies/state-machine-unity/ProductMadness/Framework/StateMachine/StateMachineDriver.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="268" column="47" selection-start-line="268" selection-start-column="40" selection-end-line="268" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#260#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ConsumeTestLobby_ios copy/Assets/Dependencies/CoreTechUnity/CoreTech/Context/Impl/AgeValidationFactory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#206#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TNTQALobby_Backup/Assets/Dependencies/CoreTechUnity/CoreTech/Integration/Tracking/Advertising/Impl/AdvertisingTrackingService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#301#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/GIT/tnt-build-integration-testing/tnt-test-lobby/Assets/Dependencies/CoreTechUnity/CoreTech/Integration/AgeVerification/Impl/AgeVerifier.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="38" column="55" selection-start-line="38" selection-start-column="55" selection-end-line="38" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6A47DD8D-C14E-43D0-8B67-F1F047377863/18/d6e731b5/IBonusStoreReader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <marker date="1566564085450" expanded="true" signature="0:372" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1566564085450" expanded="true" signature="380:466" ph="..." />
+            <marker date="1566564085450" expanded="true" signature="520:1133" ph="{...}" />
+            <marker date="1566564085450" expanded="true" signature="559:1131" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../core-tech-dotnet-master/Core-Tech/Tests/Bonuses2Test/Impl/BonusStoreTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="971">
+          <caret line="136" column="12" selection-start-line="136" selection-start-column="12" selection-end-line="136" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ConsumeTestLobby_practice/Assets/Dependencies/CoreTechUnity/CoreTech/Integration/BaseService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="14" column="62" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#167#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TNTQALobby_Backup/Assets/Dependencies/unity-framework/ProductMadness/Framework/Models/Bonus/Impl/BonusModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="40" column="23" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#178#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.analytics@3.2.2/Tests/Editor/Unity.Analytics.StandardEvents/AnalyticsEventTests.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../core-tech-dotnet-master/Core-Tech/Domains/Bonuses2/IBonusStoreWriter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../core-tech-dotnet-master/Core-Tech/Domains/Bonuses2/Impl/BonusStore.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="78" column="34" selection-start-line="78" selection-start-column="27" selection-end-line="78" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/RiderProjects/core-tech-unity/Core-Tech-Unity/Assets/Sample/Infrastructure/IntercomIO/DemoManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#398#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ConsumeTestLobby_practice/Assets/Dependencies/CoreTechUnity/CoreTech/Infrastructure/ApplicationContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2208">
+          <folding>
+            <element signature="e#0#185#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ConsumeTestLobby copy/Assets/Dependencies/CoreTechUnity/CoreTech/Integration/Facebook/Impl/FacebookService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="183" column="13" selection-start-line="183" selection-start-column="13" selection-end-line="183" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#580#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ConsumeTestLobby/Assets/Dependencies/CoreTechUnity/CoreTech/Infrastructure/ApplicationContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="664">
+          <caret line="172" column="41" selection-start-line="172" selection-start-column="28" selection-end-line="172" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#185#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/RiderProjects/core-tech-unity/Core-Tech-Unity/Assets/Sample/Integration/Bonuses/BonusesSample.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="60" column="26" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#226#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Dependencies/bonusservice/BonusService/NewPlayModeTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="273" column="14" selection-start-line="273" selection-start-column="14" selection-end-line="273" selection-end-column="14" />
+          <folding>
+            <marker date="1566763091831" expanded="true" signature="6:664" ph="..." />
+            <marker date="1566763091831" expanded="true" signature="694:8779" ph="{...}" />
+            <marker date="1566763091831" expanded="true" signature="767:821" ph="{...}" />
+            <marker date="1566763091831" expanded="true" signature="912:1042" ph="{...}" />
+            <marker date="1566763091831" expanded="true" signature="1133:1263" ph="{...}" />
+            <marker date="1566763091831" expanded="true" signature="1358:1492" ph="{...}" />
+            <marker date="1566763091831" expanded="true" signature="1608:2203" ph="{...}" />
+            <marker date="1566763091831" expanded="true" signature="1779:1931" ph="{...}" />
+            <marker date="1566763091831" expanded="true" signature="1820:1892" ph="{...}" />
+            <marker date="1566763091831" expanded="true" signature="2039:2069" ph="{...}" />
+            <marker date="1566763091831" expanded="true" signature="2319:3049" ph="{...}" />
+            <marker date="1566763091831" expanded="true" signature="2622:2774" ph="{...}" />
+            <marker date="1566763091831" expanded="true" signature="2663:2735" ph="{...}" />
+            <marker date="1566763091831" expanded="true" signature="2882:2912" ph="{...}" />
+            <marker date="1566763091831" expanded="true" signature="3163:3881" ph="{...}" />
+            <marker date="1566763091831" expanded="true" signature="3384:3536" ph="{...}" />
+            <marker date="1566763091831" expanded="true" signature="3425:3497" ph="{...}" />
+            <marker date="1566763091831" expanded="true" signature="3644:3674" ph="{...}" />
+            <marker date="1566763091831" expanded="true" signature="3975:4264" ph="{...}" />
+            <marker date="1566763091831" expanded="true" signature="4378:5177" ph="{...}" />
+            <marker date="1566763091831" expanded="true" signature="4726:4878" ph="{...}" />
+            <marker date="1566763091831" expanded="true" signature="4767:4839" ph="{...}" />
+            <marker date="1566763091831" expanded="true" signature="4986:5016" ph="{...}" />
+            <marker date="1566763091831" expanded="true" signature="5274:5563" ph="{...}" />
+            <marker date="1566763091831" expanded="true" signature="5675:6455" ph="{...}" />
+            <marker date="1566763091831" expanded="true" signature="6029:6181" ph="{...}" />
+            <marker date="1566763091831" expanded="true" signature="6070:6142" ph="{...}" />
+            <marker date="1566763091831" expanded="true" signature="6289:6319" ph="{...}" />
+            <marker date="1566763091831" expanded="true" signature="6565:7060" ph="{...}" />
+            <marker date="1566763091831" expanded="true" signature="6977:7007" ph="{...}" />
+            <marker date="1566763091831" expanded="true" signature="7170:7672" ph="{...}" />
+            <marker date="1566763091831" expanded="true" signature="7589:7619" ph="{...}" />
+            <marker date="1566763091831" expanded="true" signature="7730:7825" ph="{...}" />
+            <marker date="1566763091831" expanded="true" signature="7853:8043" ph="{...}" />
+            <marker date="1566763091831" expanded="true" signature="8048:8240" ph="/* public event Action BonusDataUpdated { ... */" />
+            <marker date="1566763091831" expanded="true" signature="8248:8574" ph="/* List&lt;string&gt; receivedEvents = new List&lt;string&gt;(); ... */" />
+            <marker date="1566763091831" expanded="true" signature="8577:8735" ph="/* Assert.AreEqual(2, receivedEvents.Count); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../core-tech-dotnet-master/Core-Tech/Domains/Bonuses2/BonusManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="68" column="12" selection-start-line="68" selection-start-column="12" selection-end-line="68" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6A47DD8D-C14E-43D0-8B67-F1F047377863/af/e3f08397/IBonusService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding>
+            <element signature="e#374#547#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Editor/NewEditModeTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="173" column="58" selection-start-line="173" selection-start-column="58" selection-end-line="173" selection-end-column="58" />
+          <folding>
+            <marker date="1566763426151" expanded="true" signature="7:583" ph="..." />
+            <marker date="1566763426151" expanded="true" signature="615:4782" ph="{...}" />
+            <marker date="1566763426151" expanded="true" signature="893:1697" ph="{...}" />
+            <marker date="1566763426151" expanded="true" signature="899:1180" ph="/* Mocking the interfaces ... */" />
+            <marker date="1566763426151" expanded="true" signature="1323:1462" ph="/* Object creation for BonusServiceFactory and PlayFactor ... */" />
+            <marker date="1566763426151" expanded="true" signature="1579:1693" ph="/* _player= PlayerFactory.Create(); ... */" />
+            <marker date="1566763426151" expanded="true" signature="1699:1957" ph="/* [Test] ... */" />
+            <marker date="1566763426151" expanded="true" signature="2013:2147" ph="{...}" />
+            <marker date="1566763426151" expanded="true" signature="2191:2606" ph="{...}" />
+            <marker date="1566763426151" expanded="true" signature="2220:2356" ph="/* _player = PlayerFactory.Create(&quot;ebfe61bf5740b4a08baf561df9fdda27f&quot;, &quot;12345&quot;, &quot;12345678&quot;, 7869000000000, true, ... */" />
+            <marker date="1566763426151" expanded="true" signature="2651:2994" ph="{...}" />
+            <marker date="1566763426151" expanded="true" signature="3053:3320" ph="{...}" />
+            <marker date="1566763426151" expanded="true" signature="3057:3084" ph="/* IsPurchasing = true; ... */" />
+            <marker date="1566763426151" expanded="true" signature="3139:3298" ph="/* var transaction = new PaymentTransaction(product, GetRandomMultiplier()); ... */" />
+            <marker date="1566763426151" expanded="true" signature="3361:3637" ph="{...}" />
+            <marker date="1566763426151" expanded="true" signature="3477:3634" ph="/* Assert.IsTrue(_bonus.HasBonusOfType&lt;IVipBonus&gt;()); ... */" />
+            <marker date="1566763426151" expanded="true" signature="3691:4135" ph="{...}" />
+            <marker date="1566763426151" expanded="true" signature="4182:4383" ph="{...}" />
+            <marker date="1566763426151" expanded="true" signature="4441:4543" ph="{...}" />
+            <marker date="1566763426151" expanded="true" signature="4571:4780" ph="{...}" />
+            <marker date="1566763426151" expanded="true" signature="4577:4721" ph="/* add { _bonusStore.BonusDataUpdated += value; } ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
